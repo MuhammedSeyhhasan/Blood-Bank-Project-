@@ -2,13 +2,11 @@
 Blood Bank Management System
 
 
-
-
 ## Tools and Technologies Used
 1. C# Programming Language
 2. MS SQL Server 2014
 3. Microsoft Visual Studio (2020)
-4. Git & Github (Version Control)
+
 
 ## Features
 1. Manage Users (Add, Update, Search, Delete)
